@@ -2,7 +2,7 @@ import React from 'react'
 
 const NotFoundPage = () => (
   <div>
-    <h1>NOT 2 FOUND</h1>
+    <h1>NOT 2 3 FOUND</h1>
     <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
   </div>
 )
